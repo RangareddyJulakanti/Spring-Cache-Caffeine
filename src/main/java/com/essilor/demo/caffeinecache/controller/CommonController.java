@@ -1,8 +1,6 @@
-package com.essilor.demo.caffinecache.controller;
+package com.essilor.demo.caffeinecache.controller;
 
-import com.essilor.demo.caffinecache.service.CommonService;
-import com.essilor.demo.caffinecache.service.CustomerService;
-import com.essilor.demo.caffinecache.service.MusicService;
+import com.essilor.demo.caffeinecache.service.CommonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

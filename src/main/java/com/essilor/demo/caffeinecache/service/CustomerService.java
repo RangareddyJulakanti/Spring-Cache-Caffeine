@@ -1,7 +1,4 @@
-package com.essilor.demo.caffinecache.service;
-
-import org.springframework.cache.annotation.CacheConfig;
-import org.springframework.cache.annotation.EnableCaching;
+package com.essilor.demo.caffeinecache.service;
 
 /**
  * Created by RANGAREJ on 4/6/2018.

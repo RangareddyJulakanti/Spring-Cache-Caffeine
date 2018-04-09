@@ -1,12 +1,9 @@
-package com.essilor.demo.caffinecache.service;
+package com.essilor.demo.caffeinecache.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cache.CacheManager;
 import org.springframework.cache.annotation.*;
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
 @Component
 @CacheConfig(cacheNames = {"instruments"})

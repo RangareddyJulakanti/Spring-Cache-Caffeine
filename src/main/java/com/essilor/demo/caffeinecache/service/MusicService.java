@@ -1,4 +1,4 @@
-package com.essilor.demo.caffinecache.service;
+package com.essilor.demo.caffeinecache.service;
 
 public interface MusicService {
 

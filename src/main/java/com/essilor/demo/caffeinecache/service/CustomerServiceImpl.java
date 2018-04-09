@@ -1,4 +1,4 @@
-package com.essilor.demo.caffinecache.service;
+package com.essilor.demo.caffeinecache.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
